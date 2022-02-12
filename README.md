@@ -4,7 +4,8 @@
  <p align="left"><a href="https://github.com/haaris272k/readme-typing-svg">
   <a href="https://github.com/haaris272k"><img src="https://readme-typing-svg.herokuapp.com?lines=Python/Web/Cloud%20|%20Cybersecurity%20|%20Exploring%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a>
 
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+ 
 - 🌱 I’m currently learning **Front end development and AWS**
 
 - 🤞  Improving my **Problem Solving Skills**
@@ -14,8 +15,6 @@
 - 💬 Ask me about **Python, Cybersecurity, Graphic Design, Gaming**
 
 - 📫 How to reach me **javedhaaris20@gmail.com**
-
-- ⚡ I love to **dive deep and let myself drown into the ocean of technology :)**
 
  ---
 
