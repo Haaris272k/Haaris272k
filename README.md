@@ -10,7 +10,7 @@
 
 - 🤞  Improving my **Problem Solving Skills**
 
-- 👨‍💻 All of my projects are available at https://github.com/haaris272k
+- 👨‍💻 All of my projects are available at https://github.com/haaris272k?tab=repositories
 
 - 💬 Ask me about **Python, Cybersecurity, Graphic Design, Gaming**
 
