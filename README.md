@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohd-haaris-javed-b6604b1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Haaris Javed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Haaris272k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haaris272k" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/haarisjaved/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="haaris272k" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/haarisjaved/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="haaris272k" height="30" width="40" /></a><a href="https://www.hackerearth.com/@javedhaaris20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="haaris272k" height="30" width="40" /></a>
 <pre>
 <img src="https://tryhackme-badges.s3.amazonaws.com/redhat272k.png" alt="TryHackMe">
 </pre>
