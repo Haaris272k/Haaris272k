@@ -6,7 +6,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
  
-- 🌱 I’m currently learning **Front end development and AWS**
+- 🌱 I’m currently working as a SDE intern at a **Fintech startup**
 
 - 🤞  Improving my **Problem Solving Skills**
 
