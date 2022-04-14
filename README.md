@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haaris.</h1>
-<h3 align="center">A passionate Engineering student with CS background.</h3>
+<h3 align="center">A passionate Software Engineering student.</h3>
 
  <p align="left"><a href="https://github.com/haaris272k/readme-typing-svg">
   <a href="https://github.com/haaris272k"><img src="https://readme-typing-svg.herokuapp.com?lines=Python/Frontend-Dev/Cloud%20|%20Cybersecurity%20|%20Exploring%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a>
