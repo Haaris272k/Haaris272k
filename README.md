@@ -8,7 +8,7 @@
  
 - 🌱 I have worked as an SDE intern at a **Fintech startup**
 
-- 👀 Learning **UI/UX design and Front-end development**
+- 👀 Learning **UI/UX designing and Front-end development**
 
 - 🤞   Improving my **Problem Solving Skills**
 
