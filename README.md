@@ -12,7 +12,7 @@
 
 - 🤞   Improving my **Problem Solving Skills (DSA)**
 
-- 💬 Ask me about **Python, Cybersecurity, Graphic Design, Gaming**
+- 💬 Ask me about **Python, Software development, Cybersecurity, Graphic Design, Gaming**
 
 - 📫 How to reach me **javedhaaris20@gmail.com**
 
