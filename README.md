@@ -18,7 +18,7 @@
 
  ---
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/haaris272k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Haaris Javed" height="30" width="40" /></a>
  <a href="https://leetcode.com/haaris272k/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="haaris272k" height="30" width="40" /></a>
@@ -48,9 +48,9 @@
   
 </div>  
 </details>  
+ -->
 
-
-<details>
+<!--<details>
 <summary><b>Streak Stats <i><font color="blue">(click to expand)</i></font></b></summary>    
 <br><p align="left"><img src="https://git-streak-stats.herokuapp.com?user=haaris272k&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="haaris272k" /></p>  
 </details>
@@ -60,10 +60,10 @@
   <br/>
    <a href="https://github.com/haaris272k"><img alt="Haaris's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=haaris272k&custom_title=Haaris's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-</details>
-
 ---
+</details>--!>
+
+
 
 <p align ="left"><img src="https://img.shields.io/github/last-commit/haaris272k/haaris272k?style=flat-square?color=blue&label=Last%20Updated%20" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haaris272k&label=Profile%20views&color=0e75b6&style=flat" alt="haaris272k" /> </p>
