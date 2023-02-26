@@ -41,7 +41,25 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="40" height="40"/>
 </p>
+
+## 📈 GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=haaris272k&show_icons=true&theme=radical)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haaris272k&layout=compact&theme=radical)
+
+## 🚀 Contributions
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=haaris272k&theme=radical)
+
+## 🎉 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=haaris272k&theme=onedark)
+
 <hr>
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/haaris272k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Haaris Javed" height="30" width="40" /></a>
