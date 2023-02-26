@@ -17,7 +17,31 @@
 - 📫 How to reach me **javedhaaris20@gmail.com**
 
  ---
+ ### Technologies I'm familiar with:
 
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/>
+  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="40" height="40"/>
+</p>
+<hr>
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/haaris272k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Haaris Javed" height="30" width="40" /></a>
