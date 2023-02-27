@@ -8,9 +8,11 @@
  
 - 🌱 I have worked as an SDE intern at a **Fintech startup**
 
-- 👀 Learning **Front-end development**
+- 👀 Learning **Backend Development**
 
-- 🤞   Improving my **Problem Solving Skills (DSA)**
+- 🤖 Developing **Telegram Bot(s)**
+
+- 🤞 Improving my **Problem Solving Skills (DSA)**
 
 - 💬 Ask me about **Python, Software Engineering, Cybersecurity, Graphic Design, Gaming**
 
