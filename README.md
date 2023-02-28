@@ -18,7 +18,19 @@
 
 - 📫 How to reach me **javedhaaris20@gmail.com**
 
- ---
+## Socials:
+[![Linkedin](https://img.shields.io/badge/Linkedin-haaris272k-blue?style=flat-square&logo=linkedin)][linkedin]
+[![Leetcode](https://img.shields.io/badge/Leetcode-haaris272k-blue?style=flat-square&logo=leetcode)][leetcode]
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-Haaris272k-green?style=flat-square&logo=hackerrank)][hackerrank]
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-haarisjaved-orange?style=flat-square&logo=geeksforgeeks)][geeksforgeeks]
+[![Behance](https://img.shields.io/badge/Behance-haarisjaved1-blueviolet?style=flat-square&logo=behance)][behance]
+<br/>
+<!-- Links -->
+[linkedin]: https://www.linkedin.com/in/haaris272k/
+[leetcode]: https://leetcode.com/haaris272k/
+[hackerrank]: https://www.hackerrank.com/Haaris272k/
+[geeksforgeeks]: https://auth.geeksforgeeks.org/user/haarisjaved/
+[behance]: https://www.behance.net/haarisjaved1/
  ### Technologies I'm familiar with:
 
 <p align="left">
