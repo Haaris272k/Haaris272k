@@ -8,7 +8,7 @@
  
 - 🌱 I have worked as an SDE intern at a **Fintech startup**
 
-- 👀 Learning **Backend Development**
+- 👀 Learning **Some new stuff**
 
 - 🤖 Developing **Telegram Bot(s)**
 
