@@ -12,8 +12,6 @@
 
 - 👀 Learning **Some new stuff**
 
-- 🤖 Developing **Automation Bot(s)**
-
 - 🤞 Improving my **Problem Solving Skills (DSA)**
 
 - 💬 Ask me about **Python, Software Engineering, Cybersecurity, Graphic Design, Gaming**
