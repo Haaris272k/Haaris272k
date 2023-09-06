@@ -12,7 +12,7 @@
 
 - 👀 Learning **Some new stuff**
 
-- 🤞 Improving my **Problem Solving Skills (DSA)**
+- 🤞 Developing **automated solutions**
 
 - 💬 Ask me about **Python, Software Engineering, Cybersecurity, Graphic Design, Gaming**
 
