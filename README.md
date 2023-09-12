@@ -17,6 +17,8 @@
 - 💬 Ask me about **Python, Software Engineering, Cybersecurity, Graphic Design, Gaming**
 
 - 📫 How to reach me **redhat272000@gmail.com**
+<p><img align="center" src="https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg" alt="itsdotnet" /></p>
+
 
 ## Socials:
 [![Linkedin](https://img.shields.io/badge/Linkedin-haaris272k-blue?style=flat-square&logo=linkedin)][linkedin]
